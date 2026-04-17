@@ -428,4 +428,6 @@ ul {
   .section {
     padding: 70px 0;
   }
+} .no-price {
+  justify-content: flex-end;
 }
